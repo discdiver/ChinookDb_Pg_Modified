@@ -1,4 +1,4 @@
-# Improved Chinook Database for Postgres
+# Improved Chinook Database for PostgreSQL
 
 Chinook sample database for Postgres with lower-cased object names and a serial primary key. Run the code in Postgres to populate the tables with sample data about digital media.
 
