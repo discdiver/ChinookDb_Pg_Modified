@@ -1,9 +1,15 @@
-# ChinookDb_Pg_Modified
-Chinook Sample Database for Postgres with lower-cased objects names and a serial PK
+# Improved Chinook Database for Postgres
 
-A sample database that anyone may use.
+Chinook sample database for Postgres with lower-cased object names and a serial primary key. Run the code in Postgres to populate the tables with sample data about digital media.
 
-Original license and data [here](https://github.com/discdiver/chinook-database/blob/master/LICENSE.md):
+
+
+Updated by John Atten. Updates described [here](https://www.codeproject.com/Articles/893899/A-More-Useful-Port-of-the-Chinook-Database-to-Post) and The Code Project Open License (CPOL) 1.02 [here](https://www.codeproject.com/info/cpol10.aspx).
+
+
+Original data and license are [here](https://github.com/discdiver/chinook-database/blob/master/LICENSE.md):
+
+Original license:
 
 Chinook Database
 Copyright (c) 2008-2017 Luis Rocha
